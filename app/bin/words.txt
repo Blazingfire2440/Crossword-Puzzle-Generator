@@ -1,0 +1,12 @@
+Title:Drumset Instruments
+Crossword Size:13
+BassDrum:The large drum that produces the low booming sound, played with a foot pedal.
+SnareDrum:The central drum that produces a sharp, staccato sound, played with drumsticks.
+HiHat:A pair of cymbals mounted on a stand, played with a foot pedal and drumsticks.
+TomTom:A cylindrical drum that produces a resonant sound, used in various sizes.
+FloorTom:A larger tom-tom that stands on the floor, producing a deeper sound.
+CrashCymbal:A cymbal used for accenting, producing a loud, crashing sound.
+RideCymbal:A larger cymbal used for steady rhythms, producing a clear, sustained sound.
+SplashCymbal:A small cymbal used for quick accents, producing a short, splashy sound.
+ChinaCymbal:A cymbal with a unique, trashy sound, often used for special effects.
+Cowbell:A metal percussion instrument producing a distinct, clanging sound.
